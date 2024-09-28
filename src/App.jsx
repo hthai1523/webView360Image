@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import  { useEffect, useState } from "react";
 import { ReactPhotoSphereViewer } from "react-photo-sphere-viewer";
 
 const DynamicPhotoSphereViewer = () => {
