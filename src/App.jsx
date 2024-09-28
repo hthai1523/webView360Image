@@ -1,4 +1,4 @@
-import  { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { ReactPhotoSphereViewer } from "react-photo-sphere-viewer";
 
 const DynamicPhotoSphereViewer = () => {
@@ -46,7 +46,7 @@ const DynamicPhotoSphereViewer = () => {
       height={"100vh"}
       width={"100vw"}
       navbar={[]}
-    />
+    ></ReactPhotoSphereViewer>
   );
 };
 
